@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "honor",
+        "price": 850,
+        "imgUrl": "./images/honor.png"
+    },
+    {
+        "id": 2,
+        "name": "huawei",
+        "price": 1170,
+        "imgUrl": "./images/huawei.png"
+    },
+    {
+        "id": 3,
+        "name": "infinix",
+        "price": 650,
+        "imgUrl": "./images/infinix.png"
+    },
+    {
+        "id": 4,
+        "name": "iphone",
+        "price": 3500,
+        "imgUrl": "./images/iphone.png"
+    },
+    {
+        "id": 5,
+        "name": "nokia",
+        "price": 900,
+        "imgUrl": "./images/nokia.png"
+    },
+    {
+        "id": 6,
+        "name": "redmi",
+        "price": 840,
+        "imgUrl": "./images/redmi.png"
+    },
+    {
+        "id": 7,
+        "name": "samsung",
+        "price": 2300,
+        "imgUrl": "./images/samsung.png"
+    },
+    {
+        "id": 8,
+        "name": "Xiaomi",
+        "price": 743,
+        "imgUrl": "./images/Xiaomi.png"
+    }
+]
