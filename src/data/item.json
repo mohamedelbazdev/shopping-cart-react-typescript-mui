@@ -1,50 +1,50 @@
 [
     {
+        "id": 0,
+        "title": "CL LEGACY",
+        "price": 70,
+        "image": "./images/1.jpg"
+    },
+    {
         "id": 1,
-        "name": "honor",
-        "price": 850,
-        "imgUrl": "./images/honor.png"
+        "title": "CM997HFKD",
+        "price": 85,
+        "image": "./images/2.jpg"
     },
     {
         "id": 2,
-        "name": "huawei",
-        "price": 1170,
-        "imgUrl": "./images/huawei.png"
+        "title": "REEBOK ROYAL",
+        "price": 100,
+        "image": "./images/3.jpg"
     },
     {
         "id": 3,
-        "name": "infinix",
-        "price": 650,
-        "imgUrl": "./images/infinix.png"
+        "title": "COURT DOUBLE",
+        "price": 110,
+        "image": "./images/4.jpg"
     },
     {
         "id": 4,
-        "name": "iphone",
-        "price": 3500,
-        "imgUrl": "./images/iphone.png"
+        "title": "FUTURE RIDER",
+        "price": 99,
+        "image": "./images/5.jpg"
     },
     {
         "id": 5,
-        "name": "nokia",
-        "price": 900,
-        "imgUrl": "./images/nokia.png"
+        "title": "MFCPZBGD",
+        "price": 115,
+        "image": "./images/6.jpg"
     },
     {
         "id": 6,
-        "name": "redmi",
-        "price": 840,
-        "imgUrl": "./images/redmi.png"
+        "title": "McdfPZBd",
+        "price": 140,
+        "image": "./images/7.jpg"
     },
     {
         "id": 7,
-        "name": "samsung",
-        "price": 2300,
-        "imgUrl": "./images/samsung.png"
-    },
-    {
-        "id": 8,
-        "name": "Xiaomi",
-        "price": 743,
-        "imgUrl": "./images/Xiaomi.png"
+        "title": "FFFPZBGD",
+        "price": 90,
+        "image": "./images/8.jpg"
     }
 ]
