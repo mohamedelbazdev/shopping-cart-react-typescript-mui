@@ -1,4 +1,3 @@
-import ShoppingCart from "../components/ShoppingCart";
 import {
   ReactNode,
   useContext,
@@ -93,7 +92,6 @@ export default function ShoppingCartProvider({
       }}
     >
       {children}
-      <ShoppingCart />
     </ShoppingCartContext.Provider>
   );
 }
